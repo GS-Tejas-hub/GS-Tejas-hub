@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GS-Tejas-hub
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning....
-- 💞️ I’m looking to collaborate on web-development and AI/ML projects
+- 💞️ I’m looking to collaborate on web-development and AI/ML projects {Collaborate only if meaningfull nd paid}
 - 📫 How to reach me ? DM on LinkedIn or Insta
 
 <!---
