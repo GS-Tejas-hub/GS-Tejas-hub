@@ -177,28 +177,6 @@ Official Dayananda Sagar University website. An ongoing build currently in progr
 
 </td>
 <td width="50%" valign="top">
-
-### 🧑‍🏫 MentorLink.in
-Mentoring platform where mentees and founders find domain-specific mentors and get real guidance.
-
-`React` &nbsp;`Node`
-
-[![Live](https://img.shields.io/badge/Live-mentorlink.in-2EA043?style=flat-square)](https://mentorlink.in)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🏢 Incubation ERP
-B2G ERP for incubation centers: manage startups, run sessions and pitching events, and track funding programs.
-
-`React` &nbsp;`Node` &nbsp;`B2G`
-
-[![Open ERP](https://img.shields.io/badge/Open_ERP-1F6FEB?style=flat-square)](https://partner.mentorlink.in/en/landing)
-
-</td>
-<td width="50%" valign="top">
 &nbsp;
 </td>
 </tr>
