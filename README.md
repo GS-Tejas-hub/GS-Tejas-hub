@@ -2,7 +2,9 @@
 
 <div align="center">
 
-<img src="assets/hero-banner.svg" alt="G S Tejas — Full-Stack Developer · AI/ML Engineer · Founder" width="100%" />
+<a href="https://gs-tejas-hub.github.io/Demon-s-Portfolio/" title="Visit my portfolio">
+  <img src="assets/hero-banner.svg" alt="G S Tejas · Full-Stack Developer · AI/ML Engineer · Founder" width="100%" />
+</a>
 
 <br/>
 
@@ -13,7 +15,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/g-s-tejas-10580929a/)
 [![Instagram](https://img.shields.io/badge/the__demon__king-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/the_demon_king_001_)
 [![Five AM Labs](https://img.shields.io/badge/Five_AM_Labs-7B5CFF?style=for-the-badge&logo=vercel&logoColor=white)](https://5am-labs.vercel.app/)
-[![SoulNest](https://img.shields.io/badge/SoulNest.club-F0B35B?style=for-the-badge&logo=react&logoColor=white)](https://soulnest.club)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00FFA3?style=for-the-badge&logo=githubpages&logoColor=black)](https://gs-tejas-hub.github.io/Demon-s-Portfolio/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gudur.tejasgs@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=GS-Tejas-hub&style=for-the-badge&color=7b5cff&label=PROFILE+VIEWS)
@@ -33,16 +35,16 @@ const tejas: Developer = {
   education: "B.Tech CSE @ Dayananda Sagar Institutions",
   location:  "Bengaluru, Karnataka, India 🇮🇳",
   company:   "Five AM Labs Pvt Ltd  (CEO & Founder)",
-  currently: ["AI/ML @ Scopeout", "Full-Stack @ MentorLink", "Building SoulNest"],
-  stack:     ["JavaScript", "React", "Node", "MongoDB", "Python", "C++", "AI/ML"],
+  currently: ["AI/ML @ Scopeout", "Full-Stack @ MentorLink", "Building StartupKit"],
+  stack:     ["JavaScript", "TypeScript", "React", "Node", "Python", "AI/ML"],
   mantra:    "Always coding, gaming, building with AI & innovating 🚀",
 };
 ```
 
-> 🗡️ Motivated full-stack web developer & AI/ML engineer with **2+ years** of hands-on experience —
+> 🗡️ Motivated full-stack web developer and AI/ML engineer with **2+ years** of hands-on experience,
 > shipping scalable web apps, training intelligent models, and turning startup ideas into real products.
-> Coordinator of the **E-Cell @ DSU**, IEEE-published researcher, and a relentless builder who believes
-> tech should make a *real-world* impact. **Collaborations welcome — if they're meaningful 🤝**
+> Coordinator of the **E-Cell @ DSU**, an IEEE-published researcher, and a relentless builder who believes
+> tech should make a *real-world* impact. **Collaborations welcome, if they're meaningful 🤝**
 
 <img src="assets/divider.svg" alt="" width="100%" />
 
@@ -60,20 +62,20 @@ const tejas: Developer = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,mysql,python,cpp,c,tailwind,threejs,vite,git,github,vscode,figma,tensorflow&theme=dark&perline=9" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,html,css,tailwind,mongodb,mysql,python,java,cpp,c,aws,tensorflow,threejs,vite,git,github,vscode,figma&perline=8&theme=dark" alt="Tech stack" />
 
 <br/><br/>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+**🧠 AI / ML &nbsp;·&nbsp; ⚙️ Automation**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-7E56C2?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-FF6F00?style=flat-square)
+![LoRA](https://img.shields.io/badge/LoRA_&_Fine--tuning-A371F7?style=flat-square)
+![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
+![GenAI](https://img.shields.io/badge/GenAI-10A37F?style=flat-square)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white)
 
 </div>
 
@@ -86,48 +88,69 @@ const tejas: Developer = {
 <td width="50%" valign="top">
 
 ### 🕊️ SoulNest
-**AI-powered emotional healing platform** that preserves memories of loved ones and offers personalized companionship — anytime, anywhere.
+AI-powered emotional healing platform that preserves memories of loved ones and offers personalized companionship, anytime, anywhere.
 
-`React 19` · `Three.js` · `GSAP` · `TypeScript` · `Vite`
+`React 19` &nbsp;`Three.js` &nbsp;`GSAP` &nbsp;`TypeScript`
 
-[![Live](https://img.shields.io/badge/🌐_Live-soulnest.club-F0B35B?style=flat-square)](https://soulnest.club)
-[![Repo](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/GS-Tejas-hub/SoulNest.Club)
+[![Live](https://img.shields.io/badge/Live-soulnest.club-F0B35B?style=flat-square)](https://soulnest.club)
+[![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/GS-Tejas-hub/SoulNest.Club)
 
 </td>
 <td width="50%" valign="top">
 
-### 🎨 AI Image Generator
-Turns text prompts into stunning visuals using cutting-edge generative AI — from realistic images to illustrations.
+### 🧠 Scopeout
+![Internship Project](https://img.shields.io/badge/Internship_Project-7b5cff?style=flat-square&labelColor=0d1117)
 
-`JavaScript` · `Generative AI` · `REST APIs`
+AI/ML engineering on a real product: retrieval-augmented generation, LLM integration and model fine-tuning.
 
-[![Repo](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/GS-Tejas-hub/AI-image-Generator)
+`Python` &nbsp;`RAG` &nbsp;`LLMs` &nbsp;`Fine-tuning`
+
+[![Live](https://img.shields.io/badge/Live_(in_dev)-00C2FF?style=flat-square)](https://scopeout-b9b80.web.app/home)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🦾 AI Automated Job Application
-Automates the job-hunt grind — auto-fills, tailors and submits applications end-to-end with AI.
+### 🤝 MentorLink
+![Internship Project](https://img.shields.io/badge/Internship_Project-7b5cff?style=flat-square&labelColor=0d1117)
 
-`Python` · `Automation` · `LLMs`
+Full-stack work across a mentoring platform and a B2G incubation ERP for running startups, sessions, pitching events and funding programs.
 
-[![Repo](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/GS-Tejas-hub/AI-automated-Job-Application)
+`React` &nbsp;`Node` &nbsp;`MongoDB`
+
+[![Platform](https://img.shields.io/badge/mentorlink.in-2EA043?style=flat-square)](https://mentorlink.in)
+[![ERP](https://img.shields.io/badge/Incubation_ERP-1F6FEB?style=flat-square)](https://partner.mentorlink.in/en/landing)
+[![Code](https://img.shields.io/badge/Code-0052CC?style=flat-square&logo=bitbucket&logoColor=white)](https://bitbucket.org/mentorlink21/workspace/overview/)
 
 </td>
 <td width="50%" valign="top">
 
-### 🧠 RAGClin · IEEE Research
-**Privacy-preserving Retrieval-Augmented Generation** for clinical Q&A — runs fully offline on LLaMA 3.1 + MiniLM. Presented at **IEEE ICERECT-2025**.
+### 🚀 StartupKit
+The founder OS for India. A local-first, encrypted, offline-first mobile app to plan, manage and run your startup end to end.
 
-`RAG` · `LLaMA 3.1` · `NLP` · `Healthcare AI`
+`Expo` &nbsp;`React Native` &nbsp;`TypeScript`
 
-[![Paper](https://img.shields.io/badge/📄_IEEE-ICERECT_2025-00629B?style=flat-square)](https://www.linkedin.com/in/g-s-tejas-10580929a/)
+[![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/GS-Tejas-hub/startupkit)
 
 </td>
 </tr>
 </table>
+
+<details>
+<summary><b>More work samples</b> &nbsp;<i>(click to expand)</i></summary>
+
+<br/>
+
+| Project | Visit |
+| :-- | :-- |
+| 🏠 &nbsp;Estox &nbsp;·&nbsp; Real-estate investment platform | [estox.in](https://www.estox.in/home) |
+| 🌱 &nbsp;Greonomy AI &nbsp;·&nbsp; Sustainable manufacturing solutions | [greonomy.ai](https://greonomy.ai/) |
+| 🎓 &nbsp;Dayananda Sagar University site &nbsp;·&nbsp; *ongoing* | [live preview](https://8660401238.vercel.app) |
+| 🧑‍🏫 &nbsp;MentorLink.in &nbsp;·&nbsp; Mentoring platform | [mentorlink.in](https://mentorlink.in) |
+| 🏢 &nbsp;partner.mentorlink.in &nbsp;·&nbsp; B2G incubation ERP | [open ERP](https://partner.mentorlink.in/en/landing) |
+
+</details>
 
 <img src="assets/divider.svg" alt="" width="100%" />
 
@@ -154,11 +177,11 @@ Automates the job-hunt grind — auto-fills, tailors and submits applications en
 
 ## 🏆 Beyond the Code
 
-- 🧠 **IEEE Researcher** — co-authored *RAGClin*, a privacy-preserving RAG framework, presented at **ICERECT-2025** (IEEE Bangalore Section)
-- 🚀 **E-Cell Coordinator @ DSU** — kickstarted the Entrepreneurship-Cell; we now run our own incubation
-- 🎮 **ACE Gamer & Demon King** — competitive at heart, creative by craft
-- 📸 **Photographer** — 3+ years capturing events, portraits & stories
-- 🏅 **Linux Foundation Certified** (Infosys Springboard) · Scored **82%** (12th) & **86%** (10th)
+- 🧠 **IEEE Researcher:** co-authored *RAGClin*, a privacy-preserving RAG framework, presented at **ICERECT-2025** (IEEE Bangalore Section)
+- 🚀 **E-Cell Coordinator @ DSU:** kickstarted the Entrepreneurship-Cell; we now run our own incubation
+- 🎮 **ACE Gamer & Demon King:** competitive at heart, creative by craft
+- 📸 **Photographer:** 3+ years capturing events, portraits and stories
+- 🏅 **Linux Foundation Certified** (Infosys Springboard) · scored **82%** (12th) and **86%** (10th)
 - 🗣️ Speaks **English · Hindi · Kannada · Telugu · Tamil**
 
 <img src="assets/divider.svg" alt="" width="100%" />
@@ -167,16 +190,18 @@ Automates the job-hunt grind — auto-fills, tailors and submits applications en
 
 ## 🤝 Let's Build Something Meaningful
 
-I'm open to **paid, meaningful collaborations** on web-development & AI/ML projects.
+I take on **web & AI/ML projects through my company, [Five AM Labs](https://5am-labs.vercel.app/)**.
+If it's meaningful, let's make it happen.
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/g-s-tejas-10580929a/)
 [![Instagram](https://img.shields.io/badge/DM_on_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/the_demon_king_001_)
+[![Five AM Labs](https://img.shields.io/badge/Work_With_Five_AM_Labs-7B5CFF?style=for-the-badge&logo=vercel&logoColor=white)](https://5am-labs.vercel.app/)
 [![Email](https://img.shields.io/badge/Drop_a_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gudur.tejasgs@gmail.com)
 
 <br/>
 
 <img src="assets/divider.svg" alt="" width="100%" />
 
-***⭐ From [GS-Tejas-hub](https://github.com/GS-Tejas-hub) — built with code, AI & a little chaos 😈***
+***⭐ From [GS-Tejas-hub](https://github.com/GS-Tejas-hub) · built with code, AI & a little chaos 😈***
 
 </div>
