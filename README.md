@@ -48,7 +48,7 @@ const tejas: Developer = {
 
 <img src="assets/divider.svg" alt="" width="100%" />
 
-## 🚀 What I'm Building Right Now
+## 🛠️ What Keeps Me Busy
 
 <div align="center">
 
@@ -58,7 +58,7 @@ const tejas: Developer = {
 
 <img src="assets/divider.svg" alt="" width="100%" />
 
-## 🛠️ Tech Arsenal
+## ⚔️ Tech Arsenal
 
 <div align="center">
 
@@ -142,13 +142,67 @@ The founder OS for India. A local-first, encrypted, offline-first mobile app to 
 
 <br/>
 
-| Project | Visit |
-| :-- | :-- |
-| 🏠 &nbsp;Estox &nbsp;·&nbsp; Real-estate investment platform | [estox.in](https://www.estox.in/home) |
-| 🌱 &nbsp;Greonomy AI &nbsp;·&nbsp; Sustainable manufacturing solutions | [greonomy.ai](https://greonomy.ai/) |
-| 🎓 &nbsp;Dayananda Sagar University site &nbsp;·&nbsp; *ongoing* | [live preview](https://8660401238.vercel.app) |
-| 🧑‍🏫 &nbsp;MentorLink.in &nbsp;·&nbsp; Mentoring platform | [mentorlink.in](https://mentorlink.in) |
-| 🏢 &nbsp;partner.mentorlink.in &nbsp;·&nbsp; B2G incubation ERP | [open ERP](https://partner.mentorlink.in/en/landing) |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏠 Estox
+Real-estate investment platform for discovering, tracking and investing in property opportunities.
+
+`Web App`
+
+[![Live](https://img.shields.io/badge/Live-estox.in-F0B35B?style=flat-square)](https://www.estox.in/home)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌱 Greonomy AI
+AI-driven sustainable manufacturing solutions that help businesses cut waste and operate greener.
+
+`AI` &nbsp;`Sustainability`
+
+[![Live](https://img.shields.io/badge/Live-greonomy.ai-2EA043?style=flat-square)](https://greonomy.ai/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 DSU Website
+Official Dayananda Sagar University website. An ongoing build currently in progress.
+
+`Web App` &nbsp;`Ongoing`
+
+[![Live preview](https://img.shields.io/badge/Live_preview-00C2FF?style=flat-square)](https://8660401238.vercel.app)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧑‍🏫 MentorLink.in
+Mentoring platform where mentees and founders find domain-specific mentors and get real guidance.
+
+`React` &nbsp;`Node`
+
+[![Live](https://img.shields.io/badge/Live-mentorlink.in-2EA043?style=flat-square)](https://mentorlink.in)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏢 Incubation ERP
+B2G ERP for incubation centers: manage startups, run sessions and pitching events, and track funding programs.
+
+`React` &nbsp;`Node` &nbsp;`B2G`
+
+[![Open ERP](https://img.shields.io/badge/Open_ERP-1F6FEB?style=flat-square)](https://partner.mentorlink.in/en/landing)
+
+</td>
+<td width="50%" valign="top">
+&nbsp;
+</td>
+</tr>
+</table>
 
 </details>
 
