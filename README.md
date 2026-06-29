@@ -177,7 +177,15 @@ Official Dayananda Sagar University website. An ongoing build currently in progr
 
 </td>
 <td width="50%" valign="top">
-&nbsp;
+
+### ⚖️ LegalEasy
+The advocate's office on your screen: case vault, hearing tracker, client crew, court hub and an AI assistant. Built for web and mobile.
+
+`Next.js` &nbsp;`React Native` &nbsp;`TypeScript`
+
+[![Web Code](https://img.shields.io/badge/Web_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hyperzen1320/LegalEasy)
+[![Mobile Code](https://img.shields.io/badge/Mobile_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hyperzen1320/LegalEasyMobileApp)
+
 </td>
 </tr>
 </table>
