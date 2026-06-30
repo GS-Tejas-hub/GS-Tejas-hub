@@ -183,6 +183,7 @@ The advocate's office on your screen: case vault, hearing tracker, client crew, 
 
 `Next.js` &nbsp;`React Native` &nbsp;`TypeScript`
 
+[![Live](https://img.shields.io/badge/Live-legalezi.com-6D28D9?style=flat-square)](https://legalezi.com/)
 [![Web Code](https://img.shields.io/badge/Web_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hyperzen1320/LegalEasy)
 [![Mobile Code](https://img.shields.io/badge/Mobile_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hyperzen1320/LegalEasyMobileApp)
 
