@@ -12,11 +12,11 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/g-s-tejas-10580929a/)
-[![Instagram](https://img.shields.io/badge/the__demon__king-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/the_demon_king_001_)
-[![Five AM Labs](https://img.shields.io/badge/Five_AM_Labs-7B5CFF?style=for-the-badge&logo=vercel&logoColor=white)](https://5am-labs.vercel.app/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00FFA3?style=for-the-badge&logo=githubpages&logoColor=black)](https://gs-tejas-hub.github.io/Demon-s-Portfolio/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gudur.tejasgs@gmail.com)
+<a href="https://www.linkedin.com/in/g-s-tejas-10580929a/"><img src="assets/btn/linkedin.svg" height="48" alt="LinkedIn"/></a>
+<a href="https://instagram.com/the_demon_king_001_"><img src="assets/btn/instagram.svg" height="48" alt="Instagram"/></a>
+<a href="https://5am-labs.vercel.app/"><img src="assets/btn/fiveam.svg" height="48" alt="Five AM Labs"/></a>
+<a href="https://gs-tejas-hub.github.io/Demon-s-Portfolio/"><img src="assets/btn/portfolio.svg" height="48" alt="Portfolio"/></a>
+<a href="mailto:gudur.tejasgs@gmail.com"><img src="assets/btn/email.svg" height="48" alt="Email"/></a>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=GS-Tejas-hub&style=for-the-badge&color=7b5cff&label=PROFILE+VIEWS)
 [![GitHub followers](https://img.shields.io/github/followers/GS-Tejas-hub?style=for-the-badge&color=00ffa3&labelColor=0d1117&logo=github)](https://github.com/GS-Tejas-hub?tab=followers)
@@ -234,10 +234,10 @@ The advocate's office on your screen: case vault, hearing tracker, client crew, 
 I take on **web & AI/ML projects through my company, [Five AM Labs](https://5am-labs.vercel.app/)**.
 If it's meaningful, let's make it happen.
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/g-s-tejas-10580929a/)
-[![Instagram](https://img.shields.io/badge/DM_on_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/the_demon_king_001_)
-[![Five AM Labs](https://img.shields.io/badge/Work_With_Five_AM_Labs-7B5CFF?style=for-the-badge&logo=vercel&logoColor=white)](https://5am-labs.vercel.app/)
-[![Email](https://img.shields.io/badge/Drop_a_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gudur.tejasgs@gmail.com)
+<a href="https://www.linkedin.com/in/g-s-tejas-10580929a/"><img src="assets/btn/linkedin-connect.svg" height="50" alt="Connect on LinkedIn"/></a>
+<a href="https://instagram.com/the_demon_king_001_"><img src="assets/btn/instagram-dm.svg" height="50" alt="DM on Instagram"/></a>
+<a href="https://5am-labs.vercel.app/"><img src="assets/btn/fiveam-work.svg" height="50" alt="Work With Five AM Labs"/></a>
+<a href="mailto:gudur.tejasgs@gmail.com"><img src="assets/btn/email-drop.svg" height="50" alt="Drop a Mail"/></a>
 
 <br/>
 
