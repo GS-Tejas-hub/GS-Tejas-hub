@@ -52,7 +52,10 @@ const tejas: Developer = {
 
 <div align="center">
 
-<img src="assets/focus-grid.svg" alt="Founder & CEO @ Five AM Labs · AI/ML Engineer @ Scopeout · Full-Stack Dev @ MentorLink · B.Tech CSE @ Dayananda Sagar" width="100%" />
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/focus-grid-mobile.svg" />
+  <img src="assets/focus-grid.svg" alt="Founder & CEO @ Five AM Labs · AI/ML Engineer @ Scopeout · Full-Stack Dev @ MentorLink · B.Tech CSE @ Dayananda Sagar" width="100%" />
+</picture>
 
 </div>
 
@@ -87,7 +90,8 @@ const tejas: Developer = {
 <tr>
 <td width="50%" valign="top">
 
-### 🕊️ SoulNest
+**🕊️ SoulNest**
+
 AI-powered emotional healing platform that preserves memories of loved ones and offers personalized companionship, anytime, anywhere.
 
 `React 19` &nbsp;`Three.js` &nbsp;`GSAP` &nbsp;`TypeScript`
@@ -98,7 +102,8 @@ AI-powered emotional healing platform that preserves memories of loved ones and 
 </td>
 <td width="50%" valign="top">
 
-### 🧠 Scopeout
+**🧠 Scopeout**
+
 ![Internship Project](https://img.shields.io/badge/Internship_Project-7b5cff?style=flat-square&labelColor=0d1117)
 
 AI/ML engineering on a real product: retrieval-augmented generation, LLM integration and model fine-tuning.
@@ -112,7 +117,8 @@ AI/ML engineering on a real product: retrieval-augmented generation, LLM integra
 <tr>
 <td width="50%" valign="top">
 
-### 🤝 MentorLink
+**🤝 MentorLink**
+
 ![Internship Project](https://img.shields.io/badge/Internship_Project-7b5cff?style=flat-square&labelColor=0d1117)
 
 Full-stack work across a mentoring platform and a B2G incubation ERP for running startups, sessions, pitching events and funding programs.
@@ -126,7 +132,8 @@ Full-stack work across a mentoring platform and a B2G incubation ERP for running
 </td>
 <td width="50%" valign="top">
 
-### 🚀 StartupKit
+**🚀 StartupKit**
+
 The founder OS for India. A local-first, encrypted, offline-first mobile app to plan, manage and run your startup end to end.
 
 `Expo` &nbsp;`React Native` &nbsp;`TypeScript`
@@ -146,7 +153,8 @@ The founder OS for India. A local-first, encrypted, offline-first mobile app to 
 <tr>
 <td width="50%" valign="top">
 
-### 🏠 Estox
+**🏠 Estox**
+
 Real-estate investment platform for discovering, tracking and investing in property opportunities.
 
 `Web App`
@@ -156,7 +164,8 @@ Real-estate investment platform for discovering, tracking and investing in prope
 </td>
 <td width="50%" valign="top">
 
-### 🌱 Greonomy AI
+**🌱 Greonomy AI**
+
 AI-driven sustainable manufacturing solutions that help businesses cut waste and operate greener.
 
 `AI` &nbsp;`Sustainability`
@@ -168,7 +177,8 @@ AI-driven sustainable manufacturing solutions that help businesses cut waste and
 <tr>
 <td width="50%" valign="top">
 
-### 🎓 DSU Website
+**🎓 DSU Website**
+
 Official Dayananda Sagar University website. An ongoing build currently in progress.
 
 `Web App` &nbsp;`Ongoing`
@@ -178,7 +188,8 @@ Official Dayananda Sagar University website. An ongoing build currently in progr
 </td>
 <td width="50%" valign="top">
 
-### ⚖️ LegalEasy
+**⚖️ LegalEasy**
+
 The advocate's office on your screen: case vault, hearing tracker, client crew, court hub and an AI assistant. Built for web and mobile.
 
 `Next.js` &nbsp;`React Native` &nbsp;`TypeScript`
